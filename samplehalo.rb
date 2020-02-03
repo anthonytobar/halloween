@@ -1,5 +1,6 @@
 a ="C:/Users/anthony_tobar/Desktop/sonicpi/Man Screaming - CEEDAY Sound Effect (HD).wav"
 beat ="C:/Users/anthony_tobar/Desktop/sonicpi/Heartbeat Sound Effect Slow, Fast, Creepy, Irregular, Normal - Free Download I No Copyright.wav"
+beat2 ="C:/Users/anthony_tobar/Desktop/sonicpi/Heart Beat - Halloween Chopped Up - Halloween Sound Effects.mp3"
 b = "C:/Users/anthony_tobar/Desktop/sonicpi/behindyou.wav"
 x=1
 
@@ -59,10 +60,6 @@ live_loop :loop2 do
   stop
 end
 
-live_loop :background_beat do
-  sample beat
-  sleep 5
-end
-
 sleep 15
+sample beat2
 sample b
