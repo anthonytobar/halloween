@@ -1,6 +1,6 @@
 a ="C:/Users/anthony_tobar/Desktop/sonicpi/Man Screaming - CEEDAY Sound Effect (HD).wav"
 beat ="C:/Users/anthony_tobar/Desktop/sonicpi/Heartbeat Sound Effect Slow, Fast, Creepy, Irregular, Normal - Free Download I No Copyright.wav"
-beat2 ="C:/Users/anthony_tobar/Desktop/sonicpi/Heart Beat - Halloween Chopped Up - Halloween Sound Effects.mp3"
+beat2 ="C:/Users/anthony_tobar/Desktop/sonicpi/freddylullaby.wav"
 b = "C:/Users/anthony_tobar/Desktop/sonicpi/behindyou.wav"
 x=1
 
